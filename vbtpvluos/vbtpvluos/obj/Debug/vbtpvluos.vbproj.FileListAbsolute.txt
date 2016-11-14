@@ -1,2 +1,3 @@
 C:\Users\as_dr\AppData\Local\Temporary Projects\vbtpvluos\bin\Debug\vbtpvluos.exe.config
 C:\Users\as_dr\Dropbox\GitHub\vbtpv\vbtpvluos\vbtpvluos\bin\Debug\vbtpvluos.exe.config
+C:\Users\Andres\Documents\practicaTPV\vbtpvluos\vbtpvluos\bin\Debug\vbtpvluos.exe.config
