@@ -1,3 +1,14 @@
 C:\Users\as_dr\AppData\Local\Temporary Projects\vbtpvluos\bin\Debug\vbtpvluos.exe.config
 C:\Users\as_dr\Dropbox\GitHub\vbtpv\vbtpvluos\vbtpvluos\bin\Debug\vbtpvluos.exe.config
 C:\Users\Andres\Documents\practicaTPV\vbtpvluos\vbtpvluos\bin\Debug\vbtpvluos.exe.config
+C:\Users\Andres\Documents\practicaTPV\vbtpvluos\vbtpvluos\bin\Debug\vbtpvluos.exe
+C:\Users\Andres\Documents\practicaTPV\vbtpvluos\vbtpvluos\bin\Debug\vbtpvluos.pdb
+C:\Users\Andres\Documents\practicaTPV\vbtpvluos\vbtpvluos\bin\Debug\vbtpvluos.xml
+C:\Users\Andres\Documents\practicaTPV\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.Form1.resources
+C:\Users\Andres\Documents\practicaTPV\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.Form2.resources
+C:\Users\Andres\Documents\practicaTPV\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.Form3.resources
+C:\Users\Andres\Documents\practicaTPV\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.Resources.resources
+C:\Users\Andres\Documents\practicaTPV\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.vbproj.GenerateResource.Cache
+C:\Users\Andres\Documents\practicaTPV\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.exe
+C:\Users\Andres\Documents\practicaTPV\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.xml
+C:\Users\Andres\Documents\practicaTPV\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.pdb
