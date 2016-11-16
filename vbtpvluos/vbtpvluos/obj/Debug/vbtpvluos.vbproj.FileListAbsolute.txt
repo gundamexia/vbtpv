@@ -12,3 +12,7 @@ C:\Users\Andres\Documents\practicaTPV\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.vb
 C:\Users\Andres\Documents\practicaTPV\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.exe
 C:\Users\Andres\Documents\practicaTPV\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.xml
 C:\Users\Andres\Documents\practicaTPV\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.pdb
+C:\Users\Andres\Documents\practicaTPV\vbtpvluos\vbtpvluos\bin\Debug\MiLibreria.dll
+C:\Users\Andres\Documents\practicaTPV\vbtpvluos\vbtpvluos\bin\Debug\MiLibreria.pdb
+C:\Users\Andres\Documents\practicaTPV\vbtpvluos\vbtpvluos\bin\Debug\MiLibreria.xml
+C:\Users\Andres\Documents\practicaTPV\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.vbprojResolveAssemblyReference.cache
