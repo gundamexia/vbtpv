@@ -16,3 +16,15 @@ C:\Users\Andres\Documents\practicaTPV\vbtpvluos\vbtpvluos\bin\Debug\MiLibreria.d
 C:\Users\Andres\Documents\practicaTPV\vbtpvluos\vbtpvluos\bin\Debug\MiLibreria.pdb
 C:\Users\Andres\Documents\practicaTPV\vbtpvluos\vbtpvluos\bin\Debug\MiLibreria.xml
 C:\Users\Andres\Documents\practicaTPV\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.vbprojResolveAssemblyReference.cache
+C:\Users\DAM212\Documents\Visual Studio 2013\Projects\vbtpv\vbtpvluos\vbtpvluos\bin\Debug\vbtpvluos.exe.config
+C:\Users\DAM212\Documents\Visual Studio 2013\Projects\vbtpv\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.Form1.resources
+C:\Users\DAM212\Documents\Visual Studio 2013\Projects\vbtpv\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.Form2.resources
+C:\Users\DAM212\Documents\Visual Studio 2013\Projects\vbtpv\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.Form3.resources
+C:\Users\DAM212\Documents\Visual Studio 2013\Projects\vbtpv\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.Resources.resources
+C:\Users\DAM212\Documents\Visual Studio 2013\Projects\vbtpv\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.vbproj.GenerateResource.Cache
+C:\Users\DAM212\Documents\Visual Studio 2013\Projects\vbtpv\vbtpvluos\vbtpvluos\bin\Debug\vbtpvluos.exe
+C:\Users\DAM212\Documents\Visual Studio 2013\Projects\vbtpv\vbtpvluos\vbtpvluos\bin\Debug\vbtpvluos.pdb
+C:\Users\DAM212\Documents\Visual Studio 2013\Projects\vbtpv\vbtpvluos\vbtpvluos\bin\Debug\vbtpvluos.xml
+C:\Users\DAM212\Documents\Visual Studio 2013\Projects\vbtpv\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.exe
+C:\Users\DAM212\Documents\Visual Studio 2013\Projects\vbtpv\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.xml
+C:\Users\DAM212\Documents\Visual Studio 2013\Projects\vbtpv\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.pdb
