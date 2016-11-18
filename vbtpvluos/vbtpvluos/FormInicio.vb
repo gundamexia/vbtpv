@@ -13,12 +13,42 @@ Public Class FormInicio
             If palabras(0).ToLower.Equals(txtUsario.Text.ToLower) Then
                 If palabras(1).ToLower.Equals(txtContra.Text.ToLower) Then
                     iniciado = True
+                    If Not File.Exists("./conexiones.txt") Then
+                        Dim fs As FileStream = File.Create("./conexiones.txt")
+                        Dim porDefecto As Byte() = New UTF8Encoding(True).GetBytes("Usuario: " + palabras(0) + "se conectó: " + Date.Now + vbCrLf)
+                        fs.Write(porDefecto, 0, porDefecto.Length)
+                        fs.Close()
+                    Else
+                        Dim fs As FileStream = File.Open("./conexiones.txt", FileMode.Append)
+                        Dim usuarioConectado As Byte() = New UTF8Encoding(True).GetBytes("Usuario: " + palabras(0) + " se conectó: " + Date.Now + vbCrLf)
+                        fs.Write(usuarioConectado, 0, usuarioConectado.Length)
+                        fs.Close()
+                    End If
+                    txtUsario.Clear()
+                    txtContra.Clear()
                     MsgBox("Acaba de conectar como: " + palabras(0))
+                    Me.Hide()
+                    Dim entrada As New Entrada
+                    entrada.Show()
                     Exit While
                 End If
             End If
         End While
         If iniciado = False Then
+            If Not File.Exists("./conexionesFallidas.txt") Then
+                Dim fs As FileStream = File.Create("./conexionesFallidas.txt")
+                Dim porDefecto As Byte() = New UTF8Encoding(True).GetBytes("Fallo de inicio de sesión: " + Date.Now + vbCrLf)
+                fs.Write(porDefecto, 0, porDefecto.Length)
+                fs.Close()
+            Else
+                Dim fs As FileStream = File.Open("./conexionesFallidas.txt", FileMode.Append)
+                Dim usuarioConectado As Byte() = New UTF8Encoding(True).GetBytes("Fallo de inicio de sesión: " + Date.Now + vbCrLf)
+                fs.Write(usuarioConectado, 0, usuarioConectado.Length)
+                fs.Close()
+            End If
+            txtUsario.Clear()
+            txtContra.Clear()
+            txtUsario.Focus()
             MsgBox("Usuario o conraseña incorrecto.")
         End If
         FileClose(1)
