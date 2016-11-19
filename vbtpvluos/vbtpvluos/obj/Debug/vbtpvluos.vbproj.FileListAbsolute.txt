@@ -29,3 +29,9 @@ C:\Users\DAM212\Documents\Visual Studio 2013\Projects\vbtpv\vbtpvluos\vbtpvluos\
 C:\Users\DAM212\Documents\Visual Studio 2013\Projects\vbtpv\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.xml
 C:\Users\DAM212\Documents\Visual Studio 2013\Projects\vbtpv\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.pdb
 C:\Users\DAM212\Documents\Visual Studio 2013\Projects\vbtpv\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.Entrada.resources
+C:\Users\as_dr\Source\Repos\vbtpv2\vbtpvluos\vbtpvluos\bin\Debug\vbtpvluos.exe.config
+C:\Users\as_dr\Source\Repos\vbtpv2\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.Form1.resources
+C:\Users\as_dr\Source\Repos\vbtpv2\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.Form2.resources
+C:\Users\as_dr\Source\Repos\vbtpv2\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.Form3.resources
+C:\Users\as_dr\Source\Repos\vbtpv2\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.Resources.resources
+C:\Users\as_dr\Source\Repos\vbtpv2\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.vbproj.GenerateResource.Cache

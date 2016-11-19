@@ -28,7 +28,7 @@ Public Class FormInicio
                     txtContra.Clear()
                     MsgBox("Acaba de conectar como: " + palabras(0))
                     Me.Hide()
-                    Dim entrada As New Entrada
+                    Dim entrada As New Form2
                     entrada.Show()
                     Exit While
                 End If
