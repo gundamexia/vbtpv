@@ -69,6 +69,7 @@ Public Class FormInicio
 
     Private Sub FormInicio_Load(sender As Object, e As EventArgs) Handles Me.Load
         lblFechaHora.Text = Date.Now
+        txtUsario.Focus()
 
         If Not File.Exists("./passwords.txt") Then
             Dim fs As FileStream = File.Create("./passwords.txt")
@@ -78,4 +79,5 @@ Public Class FormInicio
             fs.Close()
         End If
     End Sub
+
 End Class

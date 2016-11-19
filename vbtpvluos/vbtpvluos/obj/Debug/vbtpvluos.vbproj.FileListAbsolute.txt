@@ -35,3 +35,9 @@ C:\Users\as_dr\Source\Repos\vbtpv2\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.Form2
 C:\Users\as_dr\Source\Repos\vbtpv2\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.Form3.resources
 C:\Users\as_dr\Source\Repos\vbtpv2\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.Resources.resources
 C:\Users\as_dr\Source\Repos\vbtpv2\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.vbproj.GenerateResource.Cache
+C:\Users\as_dr\Source\Repos\vbtpv2\vbtpvluos\vbtpvluos\bin\Debug\vbtpvluos.exe
+C:\Users\as_dr\Source\Repos\vbtpv2\vbtpvluos\vbtpvluos\bin\Debug\vbtpvluos.pdb
+C:\Users\as_dr\Source\Repos\vbtpv2\vbtpvluos\vbtpvluos\bin\Debug\vbtpvluos.xml
+C:\Users\as_dr\Source\Repos\vbtpv2\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.exe
+C:\Users\as_dr\Source\Repos\vbtpv2\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.xml
+C:\Users\as_dr\Source\Repos\vbtpv2\vbtpvluos\vbtpvluos\obj\Debug\vbtpvluos.pdb
